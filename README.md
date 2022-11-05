@@ -1,2 +1,2 @@
-# capstone-gameplay-protoptype
+# capstone-gameplay-prototype
 The 2D gameplay prototype of our capstone 
