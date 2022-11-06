@@ -17,15 +17,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2504469221517140127, guid: f334b875140de47ad9228b70157b382f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -9.122581
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2504469221517140127, guid: f334b875140de47ad9228b70157b382f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -5.792349
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2504469221517140127, guid: f334b875140de47ad9228b70157b382f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.05690214
+      value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 2504469221517140127, guid: f334b875140de47ad9228b70157b382f, type: 3}
       propertyPath: m_LocalRotation.w
@@ -59,9 +59,13 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: -9095717837082945937, guid: 207ee8102dd4143d288186ef0be518ee, type: 3}
+    - target: {fileID: 2611380468214490356, guid: f334b875140de47ad9228b70157b382f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3038417548346143033, guid: f334b875140de47ad9228b70157b382f, type: 3}
       propertyPath: m_Name
-      value: Rail1Controller
+      value: RailController
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f334b875140de47ad9228b70157b382f, type: 3}
